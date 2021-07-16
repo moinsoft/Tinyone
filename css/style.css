@@ -53,7 +53,26 @@ Slider Section
   border-radius: 50%; 
 }
 
+/*============================================
+Feature Section
+==============================================*/
 
+.section-title h1{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.section-title p{
+  font-size: 20px;
+}
+
+.feature-icon i{
+  font-size: 50px;
+}
+
+.feature-content h2{
+  font-size: 22px;
+}
 
 
 
