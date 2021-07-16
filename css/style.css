@@ -26,7 +26,32 @@ Header Section
   font-size: 22px;
 }
 
+/*============================================
+Slider Section
+==============================================*/
 
+.slider {
+  background-color: #fcdb00;
+  padding: 50px 0 100px 0;
+}
+
+.slider-content h1{
+  font-weight: bold;
+}
+
+.slider-content ul li i{
+  font-size:40px;
+}
+
+.custom-indicators {
+  margin-bottom: -70px;
+}
+
+.custom-indicators button {
+  width: 15px !important;
+  height: 15px !important;
+  border-radius: 50%; 
+}
 
 
 
