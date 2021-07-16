@@ -75,6 +75,54 @@ Feature Section
 }
 
 
+/*============================================
+Contact Section
+==============================================*/
+
+
+.contact{
+  padding: 50px 0;
+  background-color: #010101;
+}
+
+.contact .section-title h1{
+  color: #fcdb00 !important;
+}
+
+.contact .section-title p{
+  color: #898989 !important;
+}
+
+
+.email-subscribe input.form-control:focus {
+  border-color: #fcdb00;
+  box-shadow: 0 0 0 .25rem rgba(252, 219, 0, .50);
+}
+
+
+.email-subscribe button{
+  background-color: #fcdb00;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+
+.social-link a{
+  padding: 0 !important;
+  margin: 0 20px;
+}
+
+.social-link a i{
+  color: #fcdb00 !important;
+  font-size: 40px;
+}
+
+
+
+
+
+
+
 
 
 
