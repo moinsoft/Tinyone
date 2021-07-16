@@ -13,7 +13,18 @@ body{
   scroll-behavior: smooth;
 }
 
+/*============================================
+Header Section
+==============================================*/
 
+.header{
+  background-color: #fcdb00;
+}
+
+.menu ul li a{
+  font-weight: 700;
+  font-size: 22px;
+}
 
 
 
